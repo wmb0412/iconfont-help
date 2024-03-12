@@ -1,0 +1,25 @@
+{
+  "name": "iconfont-help",
+  "version": "1.0.2",
+  "description": "自动下载iconfont资源并解压到文件中",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmb0412/iconfont-help.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmb0412/iconfont-help/issues"
+  },
+  "homepage": "https://github.com/wmb0412/iconfont-help#readme",
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "fs": "^0.0.1-security",
+    "request": "^2.88.2"
+  }
+}
